@@ -8,8 +8,8 @@
     body {
       margin: 1;
       font-family: "Helvetica Neue", sans-serif;
-      color: gold;
-      background: black;
+      color: black;
+      background: white;
     }
     header {
       height: 100vh;
@@ -17,7 +17,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      color: white;
+      color: black;
       text-align: center;
     }
     header h1 {
