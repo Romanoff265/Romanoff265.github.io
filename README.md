@@ -9,7 +9,7 @@
       margin: 1;
       font-family: "Helvetica Neue", sans-serif;
       color: gold;
-      background: white;
+      background: black;
     }
     header {
       height: 100vh;
