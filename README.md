@@ -165,7 +165,8 @@ to2.jpg" alt="Photography work">
   <!-- ABOUT -->
   <section id="about" class="about">
     <h2>About Me</h2>
-    <img src="your-photo.jpg" alt="Photographer">
+    <img src= "![IMG_1147 copy](https://github.com/user-attachments/assets/490ec729-5e64-453c-a6fa-7af11cab3019)
+hoto.jpg" alt="Photographer">
     <p>Hello! I’m a passionate photographer who captures timeless moments.  
        My style is classic, elegant, and authentic.  
        Welcome to my world through the lens.</p>
