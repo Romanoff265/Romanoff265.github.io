@@ -6,11 +6,11 @@
   <title>H.O SHOTTHAT | Photography Portfolio</title>
   <style>
     body {
-      margin: 1;
+      margin: 0;
       font-family: "Helvetica Neue", sans-serif;
-      color: black;
-      background: white
-      ;
+      color: white;
+      background: charcoal
+     ;
     }
     header {
       height: 100vh;
