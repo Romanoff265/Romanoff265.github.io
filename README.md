@@ -150,7 +150,7 @@
 hoto1.jpg" alt="Photography work">
       <img src="pho![3](https://github.com/user-attachments/assets/df7d00fe-6401-485e-8439-337796794d97)
 to2.jpg" alt="Photography work">
-      <img src="photo3.jpg" alt="Photography work">
+      <img src="3.jpg" alt="Photography work">
       <img src="photo4.jpg" alt="Photography work">
       <img src="photo5.jpg" alt="Photography work">
       <img src="photo6.jpg" alt="Photography work">
