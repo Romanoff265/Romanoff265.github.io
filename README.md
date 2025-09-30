@@ -8,8 +8,8 @@
     body {
       margin: 1;
       font-family: "Helvetica Neue", sans-serif;
-      color: black;
-      background: white;
+      color: white;
+      background: black;
     }
     header {
       height: 100vh;
