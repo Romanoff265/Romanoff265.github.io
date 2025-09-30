@@ -6,7 +6,7 @@
   <title>H.O SHOTTHAT | Photography Portfolio</title>
   <style>
     body {
-      margin: 0;
+      margin: 1;
       font-family: "Helvetica Neue", sans-serif;
       color: white;
       background: charcoal
