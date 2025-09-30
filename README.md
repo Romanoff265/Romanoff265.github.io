@@ -85,7 +85,7 @@
       text-align: center;
     }
     .price-card {
-      background: white;
+      background: black;
       padding: 25px;
       border-radius: 10px;
       box-shadow: 0 2px 6px rgba(0,0,0,0.1);
@@ -194,10 +194,10 @@ to2.jpg" alt="Photography work">
   </section>
 
   <!-- CONTACT -->
-  <section whatsapp=+256706005092 class="contact">
-    <h2>Contact Me</h2>
+  <section whatsapp=+256706005092 call +256706389963>
+    <www.instagram.com\heis_official_>
     <form>
-      <input type="text" placeholder=Roman  required>
+      <input type placeholder= order with us   required>
       <input type=remieofficial@gmail.com placeholder=remieofficial@gmail.com required>
       <textarea placeholder=FRAMING YOUOR MEMORIES rows="5" required></textarea>
       <button type="submit">Send</button>
