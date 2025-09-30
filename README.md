@@ -197,7 +197,7 @@ to2.jpg" alt="Photography work">
     <h2>Contact Me</h2>
     <form>
       <input type="text" placeholder=Roman  required>
-      <input type="email" placeholder=remieofficial@gmail.com required>
+      <input type=remieofficial@gmail.com placeholder=remieofficial@gmail.com required>
       <textarea placeholder=FRAMING YOUOR MEMORIES rows="5" required></textarea>
       <button type="submit">Send</button>
     </form>
